@@ -27,6 +27,6 @@ WTW는 **실시간 기상 정보 제공 서비스**입니다.
 - 기능3
 
 ## 관련 문서
-- [API 설계]("")
+- [API 설계](http://43.202.46.159:8000/docs#/Classification/create_asset_wtw_ai_image_classification_post)
 - [ERD 설계](https://www.erdcloud.com/d/HHSE43swnMzWu7sXy)
-- [디자인 시스템]("")
+- [디자인 시스템](https://jeongyuneo.notion.site/UI-UX-e2fe209238c44bb58ebb091ccc840110?pvs=4)
