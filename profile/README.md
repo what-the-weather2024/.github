@@ -24,6 +24,8 @@ WTW는 **실시간 기상 정보 공유 서비스**입니다.
 ## 시스템 아키텍처
 <div align=center>
   <img width="653" alt="system_arch" src="https://github.com/user-attachments/assets/18859771-5cde-433a-b3f2-9e708d4b071b">
+  <img width="742" alt="image" src="https://github.com/user-attachments/assets/261d79b4-93eb-4c1d-800c-4cba5c19e718">
+
 </div>
 
 
