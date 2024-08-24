@@ -1,7 +1,7 @@
 # What The Weather
 
 WTW는 **실시간 기상 정보 공유 서비스**입니다.  
-손쉽게 특정 지역의 날씨 정보를 실시간으로 확인하여 변화무쌍한 날씨를 예측하기 위한 보조수단이 될 것입니다. 
+특정 지역의 날씨 정보를 실시간으로 확인하여 변화무쌍한 날씨를 예측하기 위한 보조수단으로 WTW를 사용해보세요.
 
 ## 기술 스택
 
@@ -24,8 +24,7 @@ WTW는 **실시간 기상 정보 공유 서비스**입니다.
 ## 시스템 아키텍처
 <div align=center>
   <img width="653" alt="system_arch" src="https://github.com/user-attachments/assets/18859771-5cde-433a-b3f2-9e708d4b071b">
-  <img width="742" alt="image" src="https://github.com/user-attachments/assets/261d79b4-93eb-4c1d-800c-4cba5c19e718">
-
+  <img width="758" alt="image" src="https://github.com/user-attachments/assets/520255d2-3d4c-4ec8-86e5-dc4502cbfce2">
 </div>
 
 
