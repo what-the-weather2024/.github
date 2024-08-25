@@ -27,7 +27,6 @@ WTW는 **실시간 기상 정보 공유 서비스**입니다.
 </div>
 
 
-
 ## 주요 기능
 - 🌦날씨 피드 : 오락가락 날씨때문에 스트레스 받으시죠? 실시간으로 날씨를 확인하고 빠르게 대응할 수 있습니다.
 - ☔️우산 대여소 : 비맞으면 머리 빠지죠? 비를 피할 수 있는 우산을 대여해주는 사막의 오아시스같은 장소를 제공해줍니다. 
@@ -36,3 +35,8 @@ WTW는 **실시간 기상 정보 공유 서비스**입니다.
 - [API 설계](http://43.202.46.159:8000/docs#/Classification/create_asset_wtw_ai_image_classification_post)
 - [ERD 설계](https://www.erdcloud.com/d/HHSE43swnMzWu7sXy)
 - [디자인 시스템](https://jeongyuneo.notion.site/UI-UX-e2fe209238c44bb58ebb091ccc840110?pvs=4)
+
+## Repositories
+- Backend: [link](https://github.com/what-the-weather2024/BE)
+- AOS: [link](https://github.com/what-the-weather2024/Android)
+- AI: [link](https://github.com/what-the-weather2024/AI)
